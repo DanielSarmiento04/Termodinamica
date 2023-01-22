@@ -40,3 +40,5 @@ Referencias
 
 Termodinámica Cengel
 Fundamentos de la termodinámica técnica Mor
+
+[Kenneth Wark](https://dokumen.tips/documents/termodinamica-6ta-edicion-kenneth-wark-jr-donald-e-richards-566f106c2fb28.html?page=239)
